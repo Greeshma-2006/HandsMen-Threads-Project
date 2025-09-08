@@ -1,4 +1,4 @@
-# 👔 HandsMen Threads Project
+#  HandsMen Threads Project
 
 I have done this project as part of my **Salesforce Virtual Internship**.  
 The project, **HandsMen Threads**, is a Salesforce CRM solution tailored for the men’s fashion industry.  
